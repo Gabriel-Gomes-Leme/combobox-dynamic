@@ -1,0 +1,19 @@
+{
+    "estado":[
+        {
+            "id":1,
+            "name": "São Paulo",
+            "sigla": "SP"
+        },
+        {
+            "id":2,
+            "name": "Rio de Janeiro",
+            "sigla": "RJ"
+        },
+        {
+            "id":3,
+            "name": "Minas Gerais",
+            "sigla": "MG"
+        }
+    ]
+}

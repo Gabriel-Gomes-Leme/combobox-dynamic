@@ -1,0 +1,54 @@
+{
+    "cidade":[
+        {
+            "id":1,
+            "name": "Mogi das Cruzes",
+            "estado": 1
+        },
+        {
+            "id":2,
+            "name":"Suzano",
+            "estado":1
+        },
+        {
+            "id":3,
+            "name":"Poá",
+            "estado":1
+        },
+        {
+            "id":4,
+            "name":"Guararema",
+            "estado":1
+        },
+        {
+            "id":5,
+            "name":"Angra dos Reis",
+            "estado":2
+        },
+        {
+            "id":6,
+            "name":"Niterói",
+            "estado":2
+        },
+        {
+            "id":7,
+            "name":"Itaboraí",
+            "estado":2
+        },
+        {
+            "id":8,
+            "name":"Belo Horizonte",
+            "estado":3
+        },
+        {
+            "id":9,
+            "name":"Monte Azul",
+            "estado":3
+        },
+        {
+            "id":10,
+            "name":"Muzambinho",
+            "estado":3
+        }
+    ]
+}
